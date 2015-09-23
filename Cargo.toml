@@ -1,0 +1,4 @@
+[package]
+name = "ppp"
+version = "0.1.0"
+authors = ["jbranchaud <jbranchaud@gmail.com>"]
